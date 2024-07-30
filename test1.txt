@@ -1,0 +1,6 @@
+
+Cat, Max, 1, Persian, 3, 7, Black, true, John, 345-678-9012, Jane, 234-567-8901,
+Dog, Rover, 2, Labrador Retriever, 4, 10, high, yes, John, 345-678-9012, Jane, 234-567-8901, Bob, 123-456-7890
+Cat, Mittens, 3, Siamese, 2, 7, White, false, John, 345-678-9012, Jane, 234-567-8901, Bob, 123-456-7890
+Dog, Duke, 4, German Shepherd, 5, 11, medium, no, John, 345-678-9012, Jane, 234-567-8901,
+Cat, Max, 1, Persian, 3, 16, Black, true, John, 345-678-9012, Jane, 234-567-8901, Bob, 123-456-7890

@@ -1,0 +1,7 @@
+﻿  Cats.cpp
+  Dog.cpp
+  Lab 2 pets.cpp
+  Pets.cpp
+  Generating Code...
+C:\Users\brand\OneDrive\CS116\Lab 2 pets\Lab 2 pets\Lab 2 pets.cpp(137): warning C4715: 'stringToBool': not all control paths return a value
+  Lab 2 pets.vcxproj -> C:\Users\brand\OneDrive\CS116\Lab 2 pets\x64\Debug\Lab 2 pets.exe
